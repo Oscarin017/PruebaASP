@@ -16,7 +16,7 @@ namespace PruebaGit.Presentacion
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            Label1.Text = "Haz presionado el boton";
+            Label1.Text = "OSCAR a presionado el boton";
         }
     }
 }
